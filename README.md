@@ -5,19 +5,19 @@ This project shows how to upload a Video stream and use Azure Video Indexer API 
 
 # Prerequisite:
 - Signup for an Azure Video Indexer account:
-https://docs.microsoft.com/en-us/azure/cognitive-services/video-indexer/video-indexer-use-apis
+https://docs.microsoft.com/azure/cognitive-services/video-indexer/video-indexer-use-apis?WT.mc_id=startup-0000-ruyakubu
 
 - Once you subscribe, copy the Video Indexer API key to use in this code
 
 - Create an Azure Face API service:
-https://azure.microsoft.com/en-us/try/cognitive-services/?api=face-api
+https://azure.microsoft.com/try/cognitive-services/?api=face-api&WT.mc_id=startup-0000-ruyakubu
 
 - Copy the Face API key to use in this code
 
 - Ceare an Azure Blob Storage:
-https://docs.microsoft.com/en-us/azure/storage/common/storage-quickstart-create-account?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&tabs=portal
+https://docs.microsoft.com/azure/storage/common/storage-quickstart-create-account?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&tabs=portal&WT.mc_id=startup-0000-ruyakubu
 
 - Copy the Storage connection string to use in this code
-https://docs.microsoft.com/en-us/azure/storage/files/storage-java-how-to-use-file-storage
+https://docs.microsoft.com/azure/storage/files/storage-java-how-to-use-file-storage?WT.mc_id=startup-0000-ruyakubu
 
 
